@@ -1,4 +1,8 @@
 Honeyword Generator README
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🔐 Honeyword Generator
 
 A simple cybersecurity tool that generates fake passwords (honeywords) along with a real password to detect unauthorized access attempts.
