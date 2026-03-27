@@ -14,3 +14,5 @@ A simple cybersecurity tool that generates fake passwords (honeywords) along wit
 ## ▶️ How to Run
 ```bash
 python main.py
+
+##Author - Arihant Singh
